@@ -9,6 +9,10 @@ public class Library {
         return true;
     }
     
+    public void printStaff(String message) {
+    	System.out.println(message);
+    }
+    
     public static void Main(String args[]){
     	System.out.println("Hello Recognition!");
     }
