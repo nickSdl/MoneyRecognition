@@ -11,5 +11,7 @@ public class Library {
     
     public static void Main(String args[]){
     	System.out.println("Hello Recognition!");
+    	
+    	System.out.println("Some code!");
     }
 }
